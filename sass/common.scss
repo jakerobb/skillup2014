@@ -1,0 +1,74 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 130% $font-stack;
+  color: $primary-color;
+  padding: 0;
+}
+
+.content {
+  padding: 1em;
+}
+
+.sidebar {
+  padding: 1em;
+  color: gray;
+  height: 200px;
+}
+
+.left {
+  float: left;
+  border: 1px solid blue;
+}
+
+.right {
+  float: right;
+  border: 1px solid red;
+}
+
+.sidebar {
+  padding: 1em;
+  color: gray;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .content {
+    width: 100%;
+  }
+  .sidebar {
+    width: 45%;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .content {
+    width: 80%;
+  }
+  .sidebar.left {
+    top: 0px;
+    width: 20%;
+  }
+  .sidebar.right {
+    float: left;
+  }
+}
+
+@media (min-width: 1200px) {
+  .content {
+    width: 60%;
+  }
+  .sidebar {
+    top: 0px;
+    width: 20%;
+  }
+}
+
+.container:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: "";
+  clear: both;
+  height: 0;
+}
