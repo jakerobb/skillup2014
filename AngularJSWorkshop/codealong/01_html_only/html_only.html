@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <style type="text/css">
+        .test {
+            color: red;
+        }
+    </style>
+</head>
+<body ng-app class="container">
+    <label>
+        Name
+        <input type="text" ng-model="model.name"/>
+    </label>
+
+    <h2 data-ng-show="model.name.length" ng-style="headerStyle">Hello, {{model.name}}</h2>
+    <button ng-click="headerStyle = {color:'red'}">Make {{model.name}} red</button>
+    <button ng-click="headerStyle = {color:'black'}">Make {{model.name}} black</button>
+</body>
+</html>

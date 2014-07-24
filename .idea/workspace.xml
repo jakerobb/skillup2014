@@ -2,415 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c8005c-10dc-454b-956a-ae2ccf14abb8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/10_filter_and_order/screenshots/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/10_filter_and_order/screenshots/firstName.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/10_filter_and_order/screenshots/lastName.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/10_filter_and_order/screenshots/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-mocks/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/AngularJSWorkshop.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/00_basics/Basics.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/01_controllers/Controllers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/04_directive_communication/DirectiveCommunication.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/03_first_directive/FirstDirective.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/GruntFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/06_http/Http.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/Notes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/05_providers/Providers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-mocks/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/test-infra/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/02_repeaters/Repeaters.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/States.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-mocks/angular-mocks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/release/angular-ui-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/release/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ar-ma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ar-sa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/04_basic_controller/basic_controller.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/04_basic_controller/basic_controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/04_basic_controller/basic_controller_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/04_basic_controller/basic_controller_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/28_ui_router_multiview/partials/blue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-mocks/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/15_components/components.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/15_components/components.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/15_components/components_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/06_controller_methods/controller_methods.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/06_controller_methods/controller_methods.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/06_controller_methods/controller_methods_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/06_controller_methods/controller_methods_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/cv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/data/var/data_priv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/data/var/data_user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/de-at.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/14_directive_basics/directive_basics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/14_directive_basics/directive_basics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/14_directive_basics/directive_basics_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/16_directive_scope/directive_scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/16_directive_scope/directive_scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/16_directive_scope/directive_scope_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/19_factory_and_service/factory_and_service.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/19_factory_and_service/factory_and_service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/19_factory_and_service/factory_and_service_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/10_filter_and_order/filter_and_order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/10_filter_and_order/filter_and_order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/10_filter_and_order/filter_and_order_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/13_first_directive/first_directive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/13_first_directive/first_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/07_forms/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/07_forms/forms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/02_repeaters/games.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/01_html_only/html_only.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/01_html_only/html_only_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/22_http/http.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/22_http/http.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/23_http_crud/http_crud.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/23_http_crud/http_crud.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/23_http_crud/http_crud_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/24_http_interceptor/http_interceptor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/24_http_interceptor/http_interceptor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/hy-am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/karma.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/min/langs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/min/langs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/dist/lodash.compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/dist/lodash.compat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/dist/lodash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/dist/lodash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/dist/lodash.underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/lodash/dist/lodash.underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/min/moment-with-langs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/min/moment-with-langs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/min/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/mr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ms-my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/21_multi_modules/multi_modules.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/21_multi_modules/multi_modules.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/21_multi_modules/multi_modules_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/11_multiple_ctrls/multiple_ctrls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/11_multiple_ctrls/multiple_ctrls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ne.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/02_ng_model/ng_model.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/02_ng_model/ng_model_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/08_ng_repeat/ng_repeat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/08_ng_repeat/ng_repeat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/08_ng_repeat/ng_repeat_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/09_ng_repeat_table/ng_repeat_table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/09_ng_repeat_table/ng_repeat_table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/09_ng_repeat_table/ng_repeat_table_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/03_ng_tour/ng_tour.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/test-infra/npm-shrinkwrap.canonical.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/26_ui_router_partials/partials/one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/27_ui_router_navigation/partials/one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/20_provider/provider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/20_provider/provider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/20_provider/provider_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/ptor.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/28_ui_router_multiview/partials/red.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/test-infra/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/resolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/test-infra/s3_cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/test-infra/sauce_browsers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/05_scope/scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/05_scope/scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/grunt/shrinkwrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/sr-cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/stateDirectives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/stateFilters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/templateFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/tl-ph.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/17_transclusion/transclusion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/17_transclusion/transclusion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/17_transclusion/transclusion_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/tzm-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/tzm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/25_ui_router/ui_router.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/25_ui_router/ui_router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/28_ui_router_multiview/ui_router_multiview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/28_ui_router_multiview/ui_router_multiview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/27_ui_router_navigation/ui_router_navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/27_ui_router_navigation/ui_router_navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/26_ui_router_partials/ui_router_partials.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/26_ui_router_partials/ui_router_partials.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/25_ui_router/ui_router_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/test-infra/uncached-npm-install.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/urlMatcherFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/urlRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/uz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/18_value_and_constant/value_and_constant.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/18_value_and_constant/value_and_constant.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/viewDirective.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular-ui-router/src/viewScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/12_watching_with_scope/watching_with_scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/12_watching_with_scope/watching_with_scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/solutions/12_watching_with_scope/watching_with_scope_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/bootstrap/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/bower_components/moment/lang/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_directive_communication/DirectiveCommunication.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive/FirstDirective.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_http/Http.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_providers/Providers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/Repeaters.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_states/States.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/games.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skillup2014.iws" />
@@ -419,8 +20,12 @@
     <file path="/index.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406134305445" ignored="false" />
     <file path="/common.sass" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406125126499" ignored="false" />
     <file path="/common.scss" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406132705194" ignored="false" />
-    <file path="/Dummy.txt" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406134476850" ignored="false" />
+    <file path="/Dummy.txt" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406205719607" ignored="false" />
     <file path="/.gitignore" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406134501621" ignored="false" />
+    <file path="/html_only.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406206906333" ignored="false" />
+    <file path="/controllers.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406210898453" ignored="false" />
+    <file path="/dummy.xml" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406206975876" ignored="false" />
+    <file path="/controllers.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406211114493" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -481,10 +86,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/playground/index.html">
+      <file leaf-file-name="controllers.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.16389245">
+            <state line="28" column="33" selection-start="720" selection-end="720" vertical-scroll-proportion="0.37302247">
               <folding />
             </state>
           </provider>
@@ -516,13 +121,16 @@
         <option value="$PROJECT_DIR$/playground/index.html" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="2" />
     <option name="y" value="22" />
-    <option name="width" value="1045" />
+    <option name="width" value="1254" />
     <option name="height" value="1345" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -532,7 +140,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -551,8 +159,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -585,6 +193,192 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05_scope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_ng_model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="00_basics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_html_only" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -593,16 +387,19 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="appearance" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/playground" />
     </key>
@@ -644,6 +441,13 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" runner="emma" />
       <module name="" />
@@ -663,13 +467,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -715,14 +512,18 @@
       <created>1406134447905</created>
       <updated>1406134447905</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding AngularJS workshop">
+      <created>1406203658417</created>
+      <updated>1406203658417</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="22" width="1045" height="1345" extended-state="0" />
-    <editor active="false" />
+    <frame x="2" y="22" width="1254" height="1345" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32951757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -733,15 +534,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24224225" sideWeight="0.6704824" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2889073" sideWeight="0.6704824" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -789,7 +590,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup and ignores..." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding AngularJS workshop" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -806,6 +607,7 @@
     <MESSAGE value="initial push" />
     <MESSAGE value="moved initial stuff to /playground" />
     <MESSAGE value="cleanup and ignores..." />
+    <MESSAGE value="adding AngularJS workshop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -830,32 +632,31 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/playground/css/common.css">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="21" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5940594">
-          <folding />
-        </state>
+        <state line="45" column="0" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5940594" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/sass/common.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="0.37118438">
-          <folding />
-        </state>
+        <state line="19" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="0.37118438" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -867,14 +668,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.03907204">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.03907204" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.16389245">
+        <state line="24" column="0" selection-start="3903" selection-end="3903" vertical-scroll-proportion="0.3243243">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="72" selection-start="708" selection-end="708" vertical-scroll-proportion="0.27976686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/solutions/05_scope/scope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="126" selection-end="126" vertical-scroll-proportion="0.052202284">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/01_controllers/Controllers.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/00_basics/Basics.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/games.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="43" selection-start="229" selection-end="229" vertical-scroll-proportion="0.10440457">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="33" selection-start="720" selection-end="720" vertical-scroll-proportion="0.37302247">
           <folding />
         </state>
       </provider>
