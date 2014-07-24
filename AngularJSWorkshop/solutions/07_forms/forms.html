@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+  <script src="../../bower_components/moment/moment.js"></script>
+  <script src="../../bower_components/angular/angular.js"></script>
+  <script src="forms.js"></script>
+  <style>
+    input.ng-invalid {
+      color: red;
+    }
+
+    input.ng-valid {
+      color: green;
+    }
+  </style>
+</head>
+<body ng-app="forms" ng-controller="AppCtrl as app" class="container">
+
+<h2>Game Form</h2>
+
+<form name="gameForm" novalidate ng-submit="app.submitForm(app.game)">
+  <div class="form-group">
+    <input type="text" class="form-control" required name="name" ng-model="app.game.name" ng-minlength="5"
+           ng-maxlength="20"/>
+    <select class="form-control" required name="numPlayers" ng-model="app.game.numPlayers"
+            ng-options="opt.num for opt in app.playerOptions"></select>
+    Is for kids? <input type="checkbox" ng-model="app.game.isForKids"/>
+
+    <div class="radio">
+      <label><input type="radio" name="typeOptions" ng-model="app.game.type" value="board"/> Board</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" name="typeOptions" ng-model="app.game.type" value="video"/> Video</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" name="typeOptions" ng-model="app.game.type" value="sport"/> Sport</label>
+    </div>
+    <button class="form-control btn-primary" ng-disabled="gameForm.$invalid"
+            ng-class="{'btn-danger': gameForm.$invalid}">Click me!
+    </button>
+  </div>
+
+</form>
+
+
+</body>
+</html>

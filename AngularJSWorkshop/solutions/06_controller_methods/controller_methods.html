@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body ng-app="controllerMethods" ng-controller="AppCtrl as app">
+
+<input id="input" type="text" ng-model="app.message"/>
+<button id="button" ng-click="app.update(app.message)">Click me</button>
+
+<div>{{app.savedMessage}}</div>
+
+<script src="../../bower_components/angular/angular.js"></script>
+<script src="controller_methods.js"></script>
+</body>
+</html>

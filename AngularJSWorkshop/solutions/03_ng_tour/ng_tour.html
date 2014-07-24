@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+
+  <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+  <script src="../../bower_components/angular/angular.js"></script>
+</head>
+<body ng-app="" class="container">
+<div class="well">
+  <h2 ng-hide="doYouSeeMe">Now you see me...</h2>
+
+  <div ng-click="doYouSeeMe = !doYouSeeMe">Click to hide text above</div>
+</div>
+
+<div class="well">
+  <h2 ng-if="!removeMe">Don't make me go!</h2>
+
+  <div ng-click="removeMe = !removeMe">Click to *remove* element above</div>
+</div>
+
+<div ng-class="classVar">
+  <div class="input-group">Type a class: <input type="text" ng-model="classVar"/></div>
+</div>
+
+<div ng-style="{backgroundColor: colorVar}">
+  <div class="input-group">Type a color<input type="text" ng-model="colorVar"/></div>
+</div>
+
+
+</body>
+</html>
