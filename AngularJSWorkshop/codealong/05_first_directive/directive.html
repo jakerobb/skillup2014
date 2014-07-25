@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script src="/AngularJSWorkshop/codealong/05_first_directive/directive.js"></script>
+</head>
+<body ng-app="vertafore" class="container">
+
+<note to="Brad" from="Jake" message="Angular is crazy like Jay-Z."></note>
+<note to="Jake" from="Brad" message="Indeed."></note>
+
+<script type="text/ng-template" id="noteTemplate">
+    <div class='panel panel-default'>
+        <div class='panel-heading'>
+            <h5>To: {{to}}</h5>
+            <h5>From: {{from}}</h5>
+        </div>
+        <div class='panel-body'>{{message}}</div>
+    </div>
+</script>
+
+</body>
+</html>

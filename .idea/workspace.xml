@@ -2,30 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c8005c-10dc-454b-956a-ae2ccf14abb8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_directive_communication/DirectiveCommunication.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive/FirstDirective.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_http/Http.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_providers/Providers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/Repeaters.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_states/States.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/games.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/floor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/Repeaters.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/Repeaters.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/games.json" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/games.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive/FirstDirective.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/FirstDirective.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_directive_communication/DirectiveCommunication.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/DirectiveCommunication.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_providers/Providers.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/Providers.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_http/Http.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_http/Http.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_states/States.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/States.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skillup2014.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../java8workshop2014/atlassian-ide-plugin.xml" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406123009864" ignored="false" />
-    <file path="/index.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406134305445" ignored="false" />
+    <file path="/index.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406221696612" ignored="false" />
     <file path="/common.sass" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406125126499" ignored="false" />
     <file path="/common.scss" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406132705194" ignored="false" />
-    <file path="/Dummy.txt" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406205719607" ignored="false" />
+    <file path="/Dummy.txt" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406211300345" ignored="false" />
     <file path="/.gitignore" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406134501621" ignored="false" />
     <file path="/html_only.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406206906333" ignored="false" />
     <file path="/controllers.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406210898453" ignored="false" />
     <file path="/dummy.xml" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406206975876" ignored="false" />
     <file path="/controllers.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406211114493" ignored="false" />
+    <file path="/forms.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406212233188" ignored="false" />
+    <file path="/repeaters.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406220713769" ignored="false" />
+    <file path="/repeaters.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406221663090" ignored="false" />
+    <file path="/a.dummy" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406232821051" ignored="false" />
+    <file path="/directive.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406232203273" ignored="false" />
+    <file path="/directive.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406224113157" ignored="false" />
+    <file path="/blockbuster.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406292998697" ignored="false" />
+    <file path="/hotel.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406291498995" ignored="false" />
+    <file path="/hotel.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406292353466" ignored="false" />
+    <file path="/room.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406291402719" ignored="false" />
+    <file path="/hotelCalifornia.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406290752054" ignored="false" />
+    <file path="/floor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406291598833" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,17 +110,68 @@
     <favorites_list name="skillup2014" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="controllers.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="33" selection-start="720" selection-end="720" vertical-scroll-proportion="0.37302247">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.562449">
+      <split-first>
+        <splitter split-orientation="vertical" split-proportion="0.20029028">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="hotel.html" pinned="false" current="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="4" column="25" selection-start="117" selection-end="117" vertical-scroll-proportion="0.5765766">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <splitter split-orientation="vertical" split-proportion="0.5150685">
+              <split-first>
+                <leaf>
+                  <file leaf-file-name="room.html" pinned="false" current="false" current-in-tab="true">
+                    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state line="4" column="9" selection-start="138" selection-end="138" vertical-scroll-proportion="0.25296444">
+                          <folding />
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
+                </leaf>
+              </split-first>
+              <split-second>
+                <leaf>
+                  <file leaf-file-name="hotelCalifornia.html" pinned="false" current="false" current-in-tab="true">
+                    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state line="30" column="7" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.86147183">
+                          <folding />
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
+                </leaf>
+              </split-second>
+            </splitter>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="providers.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="6" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.18181819">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -123,15 +199,45 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html" />
         <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/index.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive/directive.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.js" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.js" />
         <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.js" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/blockbuster.js" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/floor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="2" />
     <option name="y" value="22" />
-    <option name="width" value="1254" />
+    <option name="width" value="1524" />
     <option name="height" value="1345" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -334,6 +440,142 @@
               <option name="myItemId" value="codealong" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08_http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07_providers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06_directive_communication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05_first_directive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04_repeaters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_forms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -398,7 +640,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_providers" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_directive_communication" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/playground" />
@@ -516,16 +762,21 @@
       <created>1406203658417</created>
       <updated>1406203658417</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="periodic commit.  I pre-created a bunch of the exercises">
+      <created>1406211302841</created>
+      <updated>1406211302841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="22" width="1254" height="1345" extended-state="0" />
+    <frame x="2" y="22" width="1524" height="1345" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32979593" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -534,15 +785,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2889073" sideWeight="0.6704824" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23612991" sideWeight="0.6702041" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -590,7 +840,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding AngularJS workshop" />
+    <option name="LAST_COMMIT_MESSAGE" value="periodic commit.  I pre-created a bunch of the exercises" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -608,9 +858,12 @@
     <MESSAGE value="moved initial stuff to /playground" />
     <MESSAGE value="cleanup and ignores..." />
     <MESSAGE value="adding AngularJS workshop" />
+    <MESSAGE value="periodic commit.  I pre-created a bunch of the exercises" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="atlassian-ide-plugin-workspace">
     <option name="bambooConfiguration">
@@ -641,7 +894,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/js/common.js">
@@ -651,12 +906,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5940594" />
+        <state line="45" column="0" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5940594">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playground/sass/common.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="0.37118438" />
+        <state line="19" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="0.37118438">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -706,7 +965,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/games.json">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="45" selection-start="855" selection-end="855" vertical-scroll-proportion="0.28023353">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/games.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -715,14 +988,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="43" selection-start="229" selection-end="229" vertical-scroll-proportion="0.10440457">
+        <state line="16" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="0.34042552">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.15752462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="6" selection-start="863" selection-end="930" vertical-scroll-proportion="0.18987341">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="0.40336135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="7" selection-start="0" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="64" selection-start="304" selection-end="304" vertical-scroll-proportion="0.07920792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/DirectiveCommunication.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="9" selection-start="138" selection-end="138" vertical-scroll-proportion="0.25296444">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="117" selection-end="117" vertical-scroll-proportion="0.5765766">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/floor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="26" selection-end="26" vertical-scroll-proportion="0.031809144">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.86147183">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="46" selection-start="779" selection-end="779" vertical-scroll-proportion="0.57575756">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/Providers.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/FirstDirective.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/Repeaters.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="33" selection-start="720" selection-end="720" vertical-scroll-proportion="0.37302247">
+        <state line="28" column="33" selection-start="720" selection-end="720" vertical-scroll-proportion="0.3736447">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.18181819">
           <folding />
         </state>
       </provider>

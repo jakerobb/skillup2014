@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script src="/AngularJSWorkshop/codealong/03_forms/forms.js"></script>
+</head>
+<body ng-app="vertafore" ng-controller="AppCtrl as app" class="container">
+
+    <form name="pizzaForm">
+        <label>
+            Size
+            <input name="size" type="text" required ng-minlength="3" ng-model="pizza.size"/><br/>
+        </label>
+        <label>
+            Toppings
+            <input name="toppings" type="text" required ng-minlength="10" ng-model="pizza.toppings"/><br/>
+        </label>
+        <button ng-disabled="!pizzaForm.$valid">Place Order</button><br/>
+        Valid size: {{pizzaForm.size.$valid}}
+    </form>
+</body>
+</html>

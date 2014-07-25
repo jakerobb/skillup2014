@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="/AngularJSWorkshop/codealong/06_directive_communication/hotel.js"></script>
+    <style type="text/css">
+        .room {
+            display: inline-block;
+            height: 8em;
+            min-height: 20px;
+            padding: 19px;
+            margin-bottom: 20px;
+            background-color: #f5f5f5;
+            border: 1px solid #e3e3e3;
+            border-radius: 4px;
+            -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+        }
+        .destroyed {
+            background-color: black;
+        }
+        .onFire {
+            background-color: red;
+        }
+    </style>
+</head>
+<body ng-app="hotel" ng-controller="hotel as app" class="container">
+
+    <hotel name="Hotel California">
+        <floor number="2">
+            <room room-number="201"></room>
+            <room room-number="202"></room>
+            <room room-number="203"></room>
+        </floor>
+        <floor number="1">
+            <room room-number="101"></room>
+            <room room-number="102"></room>
+            <room room-number="103"></room>
+        </floor>
+    </hotel>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<span class="room {{onFire ? 'onFire' : ''}} {{destroyed ? 'destroyed' : ''}}">
+    <div>
+        Room {{roomNumber}}
+    </div>
+    <div>
+        {{ vacant ? 'Vacant' : 'Occupied' }}
+    </div>
+    <div>
+        {{ onFire ? 'Shit\'s on fire!' : 'The coast is clear' }}
+    </div>
+    <button ng-show="vacant && !destroyed" ng-click="room.reserveRoom()">Reserve Room</button>
+    <button ng-show="!vacant && !destroyed" ng-click="room.vacateRoom()">Vacate Room</button>
+    <button ng-show="!onFire && !destroyed" ng-click="room.catchFire()">Fire Alarm</button>
+    <button ng-show="onFire && !destroyed" ng-click="room.extinguishFire()">Extinguish Fire</button>
+</span>

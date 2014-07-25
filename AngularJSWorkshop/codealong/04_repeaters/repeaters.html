@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="/AngularJSWorkshop/codealong/04_repeaters/repeaters.js"></script>
+    <style type="text/css">
+        .yes {
+            color: green;
+            font-size: 200%;
+        }
+        .no {
+            color: red;
+            font-size: 200%;
+        }
+    </style>
+</head>
+<body ng-app="vertafore" ng-controller="AppCtrl as app" class="container">
+
+    <form>
+        <label>
+            Order By
+            <select ng-model="app.orderBy">
+                <option value="name">Name</option>
+                <option value="minPlayers">Min # of Players</option>
+                <option value="yearPublished">Year Published</option>
+                <option value="rank">Rank</option>
+            </select>
+        </label>
+        <label>
+            Name
+            <input type="text" ng-model="app.search.name"/>
+        </label>
+        <label>
+            Players
+            <input type="number" ng-model="app.playerCount" />
+        </label>
+    </form>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th ng-click="app.setOrderBy('name')">Game</th>
+                <th ng-click="app.setOrderBy('minPlayers')">Players</th>
+                <th ng-click="app.setOrderBy('yearPublished')">Published</th>
+                <th ng-click="app.setOrderBy('rank')">Rank</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-click="app.showGameDetails(game)" ng-repeat="game in app.games | filter:app.search | players:app.playerCount | orderBy: app.orderBy">
+                <td><!--<img src="{{game.thumbnail}}"/>-->{{game.name}}</td>
+                <td>{{game.minPlayers}} to {{game.maxPlayers}}</td>
+                <td>{{game.yearPublished}}</td>
+                <td>{{game.rank == -1 ? 'N/A' : game.rank}}</td>
+            </tr>
+        </tbody>
+    </table>
+    <script type="text/ng-template" id="gameDetailsTemplate">
+        <div class="modal-body">
+            <img src="{{gameDetails.game.image}}"/>
+            <table class="table table-bordered table-hover">
+                <tr><th>Name</th><td>{{gameDetails.game.name}} <span ng-show="gameDetails.game.isExpansion" class="text-info">(Expansion)</span></td></tr>
+                <tr><th>Players</th><td>{{gameDetails.game.minPlayers}} to {{gameDetails.game.maxPlayers}}</td></tr>
+                <tr><th>Published</th><td>{{gameDetails.game.yearPublished}}</td></tr>
+                <tr><th>Rank</th><td>{{game.rank == -1 ? 'N/A' : game.rank}}</td></tr>
+                <tr><th rowspan="3">Ratings</th><td>BoardGameGeek: {{gameDetails.game.bggRating}}</td></tr>
+                <tr><td>Rating: {{gameDetails.game.rating}}</td></tr>
+                <tr><td>Average: {{gameDetails.game.averageRating}}</td></tr>
+                <tr><th>Playing time</th><td>{{gameDetails.game.playingTime}} minutes</td></tr>
+                <tr><th>Plays</th><td>{{gameDetails.game.numPlays}}</td></tr>
+                <tr><th>Comments</th><td>{{gameDetails.game.userComment}}</td></tr>
+            </table>
+
+            <table class="table table-bordered">
+                <tr>
+                    <th>Owned</th>
+                    <th>Pre-Ordered</th>
+                    <th>For Trade</th>
+                    <th>Previous Owned</th>
+                    <th>Want</th>
+                    <th>Want To Play</th>
+                    <th>Want To Buy</th>
+                    <th>Wish List</th>
+                </tr>
+                <tr>
+                    <td ng-class="gameDetails.game.owned ? 'yes' : 'no'">{{gameDetails.game.owned | checkmark}}</td>
+                    <td ng-class="gameDetails.game.preOrdered ? 'yes' : 'no'">{{gameDetails.game.preOrdered | checkmark}}</td>
+                    <td ng-class="gameDetails.game.forTrade ? 'yes' : 'no'">{{gameDetails.game.forTrade | checkmark}}</td>
+                    <td ng-class="gameDetails.game.previousOwned ? 'yes' : 'no'">{{gameDetails.game.previousOwned | checkmark}}</td>
+                    <td ng-class="gameDetails.game.want ? 'yes' : 'no'">{{gameDetails.game.want | checkmark}}</td>
+                    <td ng-class="gameDetails.game.wantToPlay ? 'yes' : 'no'">{{gameDetails.game.wantToPlay | checkmark}}</td>
+                    <td ng-class="gameDetails.game.wantToBuy ? 'yes' : 'no'">{{gameDetails.game.wantToBuy | checkmark}}</td>
+                    <td ng-class="gameDetails.game.wishList ? 'yes' : 'no'">{{gameDetails.game.wishList | checkmark}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-primary" ng-click="gameDetails.ok()">OK</button>
+        </div>
+    </script>
+
+</body>
+</html>
