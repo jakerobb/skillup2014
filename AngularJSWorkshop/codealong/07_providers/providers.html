@@ -5,33 +5,86 @@
     <title></title>
     <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
     <script src="../../bower_components/angular/angular.js"></script>
-    <script src="/AngularJSWorkshop/codealong/02_controllers/controllers.js"></script>
+    <script src="/AngularJSWorkshop/codealong/07_providers/providers.js"></script>
+    <style>
+        .meal {
+            display: inline-block;
+            margin-right: 1em;
+            margin-bottom: 1em;
+            vertical-align: top;
+        }
+        input.quantity {
+            width: 4em;
+        }
+    </style>
 </head>
-<body ng-app="vertafore" ng-controller="AppCtrl as app" class="container">
+<body ng-app="restaurant" ng-controller="RestaurantCtrl as app" class="container">
 
 
-<div>
-    <label>
-        Drink
-        <input type="text" ng-model="newOrder.drink"/>
-    </label>
+<div ng-show="app.mealFactory.meals" class="menu panel panel-default">
+    <div class="panel-heading">Menu</div>
+    <div class="panel-body">
+        <div class="well meal" ng-repeat="meal in app.mealFactory.meals">
+            <div>
+                {{meal.name}}
+                <ul>
+                    <li ng-repeat="ingredient in meal.ingredients">
+                        <div>{{ingredient}}</div>
+                    </li>
+                </ul>
+            </div>
+            <button ng-click="app.submitOrder(meal)">Order</button>
+        </div>
+    </div>
 </div>
-<div>
-    <label>
-        Food
-        <input type="text" ng-model="newOrder.food"/>
-    </label>
+
+<div ng-show="app.mealFactory.meals" class="menu panel panel-default">
+    <div class="panel-heading">Restaurant Inventory</div>
+    <div class="panel-body">
+        <table class="table table-bordered">
+            <thead>
+                <th>Ingredient</th>
+                <th>Quantity on Hand</th>
+                <th>Order More</th>
+            </thead>
+            <tbody>
+                <tr ng-repeat="ingredient in app.inventoryService.ingredients">
+                    <td>{{ingredient.name}}</td>
+                    <td>
+                        <span class="badge">
+                            {{ingredient.quantityOnHand}}
+                        </span>
+                    </td>
+                    <td>
+                        <form ng-init="quantity = 10">
+                            <label>
+                                Quantity
+                                <input type="number" required ng-model="ingredient.replenishQuantity" class="quantity"/>
+                            </label>
+                            <button ng-click="app.inventoryService.replenish(ingredient, ingredient.replenishQuantity)">Order</button>
+                        </form>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
-<button ng-click="app.submitOrder(newOrder)">Click</button>
-
-
-<div ng-show="app.orders.length">
-    <h2>Submitted Orders</h2>
+<div ng-show="app.orderService.getOpenOrders().length">
+    <h2>Orders and Ingredients</h2>
     <ol>
-        <li ng-repeat="order in app.orders">{{order.food}} with {{order.drink}}</li>
+        <li ng-repeat="order in app.orderService.getOpenOrders()">
+            <div>{{order.name}}</div>
+            <ul>
+                <li ng-repeat="ingredient in order.ingredients">
+                    <div>{{ingredient}}</div>
+                </li>
+            </ul>
+        </li>
     </ol>
 </div>
+
+
 
 </body>
 </html>

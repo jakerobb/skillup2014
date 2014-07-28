@@ -1,0 +1,13 @@
+<div class="well">
+  <div class="btn-group">
+    
+    <label ui-sref="demo.books.fantasy" class="btn" ng-model="books.radioModel" btn-radio="'demo.books.fantasy'" uncheckable>demo.books.fantasy</label>
+    <label ui-sref="demo.books.fiction" class="btn" ng-model="books.radioModel" btn-radio="'demo.books.fiction'" uncheckable>demo.books.fiction</label>
+    <label ui-sref="demo.books.nonfiction" class="btn" ng-model="books.radioModel" btn-radio="'demo.books.nonfiction'" uncheckable>demo.books.nonfiction</label>
+  </div>
+
+<h3>{{books.message}}</h3>
+
+
+<div ui-view></div>
+</div>

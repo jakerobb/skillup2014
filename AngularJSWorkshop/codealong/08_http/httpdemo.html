@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="/AngularJSWorkshop/codealong/08_http/httpdemo.js"></script>
+    <style>
+        input, select {
+            margin-right: 1em;
+        }
+        label {
+            padding-right: .5em;
+        }
+        label > input {
+            margin-left: .5em;
+        }
+        .left {
+            display: inline-block;
+            float: left;
+        }
+        #addButton {
+            margin-top: .5em;
+            display: inline-block;
+            float: right;
+        }
+    </style>
+</head>
+<body ng-app="httpdemo" ng-controller="PeopleCtrl as people" class="container">
+
+<div>
+    <h4 class="left">{{ people.data.length }} People</h4>
+    <button id="addButton" ng-click="people.addNewPerson()">Add New Person</button>
+</div>
+<div class="table-responsive">
+    <table class="table table-bordered table-hover table-striped table-condensed">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="person in people.data">
+                <td>{{person.firstName}}</td>
+                <td>{{person.lastName}}</td>
+                <td>{{person.email}}</td>
+                <td>
+                    <i class="glyphicon glyphicon-search" ng-click="people.showPersonDetails(person)"></i>
+                    <i class="glyphicon glyphicon-edit" ng-click="people.editPersonDetails(person)"></i>
+                    <i class="glyphicon glyphicon-trash" ng-click="people.deletePerson(person)"></i>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+    <script type="text/ng-template" id="viewPersonDetailsTemplate">
+       <div class="modal-body">
+            <table class="table table-bordered table-hover">
+                <tr><th>Name</th><td>{{viewPersonDetails.person.firstName}} {{viewPersonDetails.person.lastName}} </td></tr>
+                <tr><th>Email</th><td>{{viewPersonDetails.person.email}}</td></tr>
+                <tr><th>Phone</th><td>{{viewPersonDetails.person.phone}}</td></tr>
+                <tr>
+                    <th>Address</th>
+                    <td>
+                        {{viewPersonDetails.person.address}}<br/>
+                        {{viewPersonDetails.person.city}} {{viewPersonDetails.person.zip}}<br/>
+                        {{viewPersonDetails.person.country}}<br/>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-primary" ng-click="viewPersonDetails.ok()">OK</button>
+        </div>
+    </script>
+    <script type="text/ng-template" id="editPersonDetailsTemplate">
+        <form name="editPersonDetailsForm" ng-click="editPersonDetails.save(editPersonDetailsForm)">
+           <div class="modal-body">
+                <table class="table table-bordered table-hover">
+                    <tr><th>Name</th><td><label for="firstName">First</label><input id="firstName" type="text" required ng-model="editPersonDetails.person.firstName"/> <label for="lastName">Last</label><input id="lastName" type="text" required ng-model="editPersonDetails.person.lastName"/>  </td></tr>
+                    <tr><th><label for="email">Email</label></th><td><input id="email" type="email" size="100" required ng-model="editPersonDetails.person.email"/></td></tr>
+                    <tr><th><label for="phone">Phone</label></th><td><input id="phone" type="tel" ng-model="editPersonDetails.person.phone"/></td></tr>
+                    <tr>
+                        <th>Address</th>
+                        <td>
+                            <label for="address">Address</label><input id="address" type="text" size="100" ng-model="editPersonDetails.person.address"/><br/>
+                            <label for="city">City</label><input id="city" type="text" size="20" ng-model="editPersonDetails.person.city"/><label for="zip">ZIP</label><input id="zip" type="text" size="10" ng-model="editPersonDetails.person.zip"/><br/>
+                            <label for="country">Country</label><input id="country" type="text" size="20" ng-model="editPersonDetails.person.country"/><br/>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button class="btn" type="button" ng-click="editPersonDetails.cancel()">Cancel</button>
+                <button class="btn btn-primary" type="submit">Save</button>
+            </div>
+        </form>
+    </script>
+    <script type="text/ng-template" id="addPersonDetailsTemplate">
+        <form name="addPersonDetailsForm" ng-submit="addPersonDetails.save(addPersonDetailsForm)">
+            <div class="modal-body">
+                <table class="table table-bordered table-hover">
+                    <tr><th>Name</th><td><label for="addFirstName">First</label><input id="addFirstName" type="text" required ng-model="addPersonDetails.person.firstName"/> <label for="addLastName">Last</label><input id="addLastName" type="text" required ng-model="addPersonDetails.person.lastName"/>  </td></tr>
+                    <tr><th><label for="addEmail">Email</label></th><td><input id="addEmail" type="email" size="100" required ng-model="addPersonDetails.person.email"/></td></tr>
+                    <tr><th><label for="addPhone">Phone</label></th><td><input id="addPhone" type="tel" ng-model="addPersonDetails.person.phone"/></td></tr>
+                    <tr>
+                        <th>Address</th>
+                        <td>
+                            <label for="addAddress">Address</label><input id="addAddress" type="text" size="100" ng-model="addPersonDetails.person.address"/><br/>
+                            <label for="addCity">City</label><input id="addCity" type="text" size="20" ng-model="addPersonDetails.person.city"/><label for="addZip">ZIP</label><input id="addZip" type="text" size="10" ng-model="addPersonDetails.person.zip"/><br/>
+                            <label for="addCountry">Country</label><input id="addCountry" type="text" size="20" ng-model="addPersonDetails.person.country"/><br/>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button class="btn" type="button" ng-click="addPersonDetails.cancel()">Cancel</button>
+                <button class="btn btn-primary" type="submit">Add</button>
+            </div>
+        </form>
+    </script>
+
+</body>
+</html>

@@ -2,38 +2,348 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c8005c-10dc-454b-956a-ae2ccf14abb8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/floor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/Repeaters.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/Repeaters.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_repeaters/games.json" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/games.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive/FirstDirective.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/FirstDirective.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_directive_communication/DirectiveCommunication.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/DirectiveCommunication.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_providers/Providers.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/Providers.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_http/Http.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_http/Http.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_states/States.md" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/States.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-bootstrap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/data/accepts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/release/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/applicationLog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/applications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/changeGroups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/changeLoggingLevels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/codeDomainEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/configure.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/customerSites.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/customers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/cxSubscriberServicesEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/data/var/data_priv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/data/var/data_user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/databaseSites.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/defaultDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/fantasy/demo.books.fantasy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/fantasy/demo.books.fantasy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/fiction/demo.books.fiction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/fiction/demo.books.fiction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/demo.books.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/demo.books.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/nonfiction/demo.books.nonfiction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/books/nonfiction/demo.books.nonfiction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/home/demo.home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/home/demo.home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/demo.pizza.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/demo.pizza.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/meat/bacon/demo.pizza.meat.bacon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/meat/bacon/demo.pizza.meat.bacon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/meat/ham/demo.pizza.meat.ham.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/meat/ham/demo.pizza.meat.ham.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/meat/demo.pizza.meat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/meat/demo.pizza.meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/veggie/demo.pizza.veggie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/veggie/demo.pizza.veggie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/veggie/mushroom/demo.pizza.veggie.mushroom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/pizza/veggie/mushroom/demo.pizza.veggie.mushroom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/ceiling/demo.room.ceiling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/ceiling/demo.room.ceiling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/chair/demo.room.chair.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/chair/demo.room.chair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/door/demo.room.door.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/door/demo.room.door.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/floor/demo.room.floor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/floor/demo.room.floor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/demo.room.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/demo.room.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/wall/demo.room.wall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/room/wall/demo.room.wall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/facebook/demo.social.facebook.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/facebook/demo.social.facebook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/demo.social.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/demo.social.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/plus/demo.social.plus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/plus/demo.social.plus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/twitter/demo.social.twitter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/demo/social/twitter/demo.social.twitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/deploymentGroups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/encryptionTool.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/environments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/firststate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/firststate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/generatedHowTo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_http/httpdemo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/08_http/httpdemo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/iceberg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/var/isHidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/dist/lodash.compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/dist/lodash.compat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/dist/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/dist/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/dist/lodash.underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/lodash/dist/lodash.underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/lqaNavigator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/lqatrNavigator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/manage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/parseJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/pdbEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/permissions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/recentDeployments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/refreshCache.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/refreshGoldMaster.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/regulatoryMappingsEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/regulatoryMappingsValidator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/research.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/rnotwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/scheduledDeployments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/securityGroups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/servers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/stateDirectives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/stateFilters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/states.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/states.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/strundefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/css/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/systemMonitor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/tableEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/tableEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/tableMetadata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/templateFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/tools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-bootstrap/ui-bootstrap-tpls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-bootstrap/ui-bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-bootstrap/ui-bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/urlMatcherFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/urlRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/useIndicatorEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/userAccounts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/viewDirective.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/angular-ui-router/src/viewScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/bootstrap/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated/bower_components/jquery/src/ajax/xhr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleServer/database.db" afterPath="$PROJECT_DIR$/SimpleServer/database.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.html" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js" afterPath="$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skillup2014.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../java8workshop2014/atlassian-ide-plugin.xml" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406123009864" ignored="false" />
-    <file path="/index.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406221696612" ignored="false" />
+    <file path="/index.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406299255559" ignored="false" />
     <file path="/common.sass" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406125126499" ignored="false" />
     <file path="/common.scss" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406132705194" ignored="false" />
-    <file path="/Dummy.txt" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406211300345" ignored="false" />
+    <file path="/Dummy.txt" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406302753735" ignored="false" />
     <file path="/.gitignore" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406134501621" ignored="false" />
     <file path="/html_only.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406206906333" ignored="false" />
     <file path="/controllers.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406210898453" ignored="false" />
@@ -41,7 +351,7 @@
     <file path="/controllers.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406211114493" ignored="false" />
     <file path="/forms.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406212233188" ignored="false" />
     <file path="/repeaters.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406220713769" ignored="false" />
-    <file path="/repeaters.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406221663090" ignored="false" />
+    <file path="/repeaters.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406302867940" ignored="false" />
     <file path="/a.dummy" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406232821051" ignored="false" />
     <file path="/directive.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406232203273" ignored="false" />
     <file path="/directive.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406224113157" ignored="false" />
@@ -51,6 +361,51 @@
     <file path="/room.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406291402719" ignored="false" />
     <file path="/hotelCalifornia.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406290752054" ignored="false" />
     <file path="/floor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406291598833" ignored="false" />
+    <file path="/providers.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406297517405" ignored="false" />
+    <file path="/providers.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406297128123" ignored="false" />
+    <file path="/httpdemo.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406306533868" ignored="false" />
+    <file path="/httpdemo.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406308131575" ignored="false" />
+    <file path="/firststate.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406311358824" ignored="false" />
+    <file path="/firststate.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406311758898" ignored="false" />
+    <file path="/generatedStates.md" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406310204100" ignored="false" />
+    <file path="/generatedHowTo.md" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406312493060" ignored="false" />
+    <file path="/states.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406317848368" ignored="false" />
+    <file path="/states.js" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406552630616" ignored="false" />
+    <file path="/home.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406314601145" ignored="false" />
+    <file path="/configure.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316654368" ignored="false" />
+    <file path="/manage.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316292137" ignored="false" />
+    <file path="/tools.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316535179" ignored="false" />
+    <file path="/changeGroups.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406314098010" ignored="false" />
+    <file path="/deploymentGroups.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406314524583" ignored="false" />
+    <file path="/recentDeployments.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406314533075" ignored="false" />
+    <file path="/scheduleDeployments.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406314540972" ignored="false" />
+    <file path="/research.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406314609440" ignored="false" />
+    <file path="/applications.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316397036" ignored="false" />
+    <file path="/customers.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316402721" ignored="false" />
+    <file path="/customerSites.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316407661" ignored="false" />
+    <file path="/databaseSites.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316412129" ignored="false" />
+    <file path="/environments.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316415700" ignored="false" />
+    <file path="/permissions.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316421351" ignored="false" />
+    <file path="/securityGroups.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316425046" ignored="false" />
+    <file path="/servers.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316427703" ignored="false" />
+    <file path="/tableMetadata.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316431941" ignored="false" />
+    <file path="/userAccounts.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316435493" ignored="false" />
+    <file path="/applicationLog.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316439130" ignored="false" />
+    <file path="/changeLoggingLevels.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316443379" ignored="false" />
+    <file path="/encryptionTool.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316446790" ignored="false" />
+    <file path="/refreshCache.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316449934" ignored="false" />
+    <file path="/refreshGoldMaster.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316455524" ignored="false" />
+    <file path="/systemMonitor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316458396" ignored="false" />
+    <file path="/codeDomainEditor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316551321" ignored="false" />
+    <file path="/iceberg.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316555610" ignored="false" />
+    <file path="/lqaNavigator.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316559579" ignored="false" />
+    <file path="/lqatrNavigator.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316565917" ignored="false" />
+    <file path="/pdbEditor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316569666" ignored="false" />
+    <file path="/tableEditor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316590384" ignored="false" />
+    <file path="/cxSubscriberServicesEditor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316577990" ignored="false" />
+    <file path="/regulatoryMappingsEditor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316582561" ignored="false" />
+    <file path="/regulatoryMappingsValidator.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316586886" ignored="false" />
+    <file path="/useIndicatorEditor.html" changelist="b5c8005c-10dc-454b-956a-ae2ccf14abb8" time="1406316594891" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +420,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -101,7 +457,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -110,68 +465,17 @@
     <favorites_list name="skillup2014" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.562449">
-      <split-first>
-        <splitter split-orientation="vertical" split-proportion="0.20029028">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="hotel.html" pinned="false" current="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state line="4" column="25" selection-start="117" selection-end="117" vertical-scroll-proportion="0.5765766">
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <splitter split-orientation="vertical" split-proportion="0.5150685">
-              <split-first>
-                <leaf>
-                  <file leaf-file-name="room.html" pinned="false" current="false" current-in-tab="true">
-                    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html">
-                      <provider selected="true" editor-type-id="text-editor">
-                        <state line="4" column="9" selection-start="138" selection-end="138" vertical-scroll-proportion="0.25296444">
-                          <folding />
-                        </state>
-                      </provider>
-                    </entry>
-                  </file>
-                </leaf>
-              </split-first>
-              <split-second>
-                <leaf>
-                  <file leaf-file-name="hotelCalifornia.html" pinned="false" current="false" current-in-tab="true">
-                    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html">
-                      <provider selected="true" editor-type-id="text-editor">
-                        <state line="30" column="7" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.86147183">
-                          <folding />
-                        </state>
-                      </provider>
-                    </entry>
-                  </file>
-                </leaf>
-              </split-second>
-            </splitter>
-          </split-second>
-        </splitter>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="providers.js" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.18181819">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="states.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/states.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="5" selection-start="637" selection-end="637" vertical-scroll-proportion="0.27722773">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -190,30 +494,47 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/sass/common.sass" />
-        <option value="$PROJECT_DIR$/css/common.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/sass/common.scss" />
-        <option value="$PROJECT_DIR$/playground/index.html" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/index.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive/directive.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.js" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.js" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.js" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/blockbuster.js" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/floor.html" />
-        <option value="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.js" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/states.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/changeGroups.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/deploymentGroups.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/recentDeployments.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/scheduleDeployments.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/home.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/research.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/manage.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/applications.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/customers.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/customerSites.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/databaseSites.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/environments.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/permissions.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/securityGroups.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/servers.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/tableMetadata.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/userAccounts.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/applicationLog.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/changeLoggingLevels.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/encryptionTool.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/refreshCache.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/refreshGoldMaster.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/systemMonitor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/tools.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/codeDomainEditor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/lqaNavigator.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/lqatrNavigator.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/pdbEditor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/tableEditor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/cxSubscriberServicesEditor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/regulatoryMappingsEditor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/regulatoryMappingsValidator.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/tableEditor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/useIndicatorEditor.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/configure.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/iceberg.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/index.html" />
+        <option value="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/states.js" />
       </list>
     </option>
   </component>
@@ -221,7 +542,7 @@
     <option name="x" value="2" />
     <option name="y" value="22" />
     <option name="width" value="1524" />
-    <option name="height" value="1345" />
+    <option name="height" value="1331" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -265,8 +586,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -378,6 +699,162 @@
               <option name="myItemId" value="exercises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iceberg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -442,6 +919,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="09_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skillup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJSWorkshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codealong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09_states" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generated" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -629,25 +1132,30 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="editing.templates" />
+    <property name="options.lastSelected" value="editor" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states" />
       <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_providers" />
       <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication" />
-      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/05_directive_communication" />
-      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_first_directive" />
-      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/playground" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure" />
+      <recent name="$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/generated" />
     </key>
   </component>
   <component name="RunManager">
@@ -766,17 +1274,21 @@
       <created>1406211302841</created>
       <updated>1406211302841</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="periodic commit.  yesterday's exercises complete.">
+      <created>1406293241828</created>
+      <updated>1406293241828</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="22" width="1524" height="1345" extended-state="0" />
+    <frame x="2" y="22" width="1524" height="1331" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32979593" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925835" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -785,14 +1297,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23612991" sideWeight="0.6702041" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23612991" sideWeight="0.6707416" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -840,7 +1352,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="periodic commit.  I pre-created a bunch of the exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="periodic commit.  yesterday's exercises complete." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -859,10 +1371,11 @@
     <MESSAGE value="cleanup and ignores..." />
     <MESSAGE value="adding AngularJS workshop" />
     <MESSAGE value="periodic commit.  I pre-created a bunch of the exercises" />
+    <MESSAGE value="periodic commit.  yesterday's exercises complete." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="atlassian-ide-plugin-workspace">
@@ -885,224 +1398,296 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/changeGroups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playground/css/common.css">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/recentDeployments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/scheduledDeployments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/deploymentGroups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.65346533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/States.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="327" selection-end="327" vertical-scroll-proportion="0.15841584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/applications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/customers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/customerSites.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playground/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playground/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5940594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playground/sass/common.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="0.37118438">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.652605">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.03907204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playground/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="3903" selection-end="3903" vertical-scroll-proportion="0.3243243">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/01_html_only/html_only.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="72" selection-start="708" selection-end="708" vertical-scroll-proportion="0.27976686">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/solutions/05_scope/scope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="126" selection-end="126" vertical-scroll-proportion="0.052202284">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/01_controllers/Controllers.md">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/databaseSites.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/00_basics/Basics.md">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/environments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/manage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="863" selection-end="863" vertical-scroll-proportion="0.14827296">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/permissions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.html">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/securityGroups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="45" selection-start="855" selection-end="855" vertical-scroll-proportion="0.28023353">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/servers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/tableMetadata.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/manage/userAccounts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/applicationLog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/changeLoggingLevels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/encryptionTool.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/refreshCache.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/refreshGoldMaster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/systemMonitor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/tools/tools.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="79" selection-start="94" selection-end="94" vertical-scroll-proportion="0.013479359">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/codeDomainEditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/lqaNavigator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/lqatrNavigator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/pdbEditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/cxSubscriberServicesEditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/regulatoryMappingsEditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/regulatoryMappingsValidator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/useIndicatorEditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/tableEditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/tableEditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/iceberg/iceberg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.013479359">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/bower_components/angular/angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="37" column="28" selection-start="1505" selection-end="1505" vertical-scroll-proportion="0.4937448">
+          <folding>
+            <marker date="1402718176000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1402718176000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1402718176000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1402718176000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/configure/configure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="102" selection-start="223" selection-end="223" vertical-scroll-proportion="0.026958719">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/games.json">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="14" selection-end="487" vertical-scroll-proportion="0.013479359">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.js">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="0.34042552">
+        <state line="17" column="25" selection-start="793" selection-end="793" vertical-scroll-proportion="0.22914912">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/03_forms/forms.js">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/09_states/firststate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.15752462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="6" selection-start="863" selection-end="930" vertical-scroll-proportion="0.18987341">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/repeaters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="0.40336135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="0" selection-end="22" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/directive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="64" selection-start="304" selection-end="304" vertical-scroll-proportion="0.07920792">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/DirectiveCommunication.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/room.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="138" selection-end="138" vertical-scroll-proportion="0.25296444">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="117" selection-end="117" vertical-scroll-proportion="0.5765766">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/floor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="26" selection-end="26" vertical-scroll-proportion="0.031809144">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotelCalifornia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="7" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.86147183">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/06_directive_communication/hotel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="46" selection-start="779" selection-end="779" vertical-scroll-proportion="0.57575756">
+        <state line="26" column="0" selection-start="654" selection-end="654" vertical-scroll-proportion="0.34323433">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/Providers.md">
+    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/exercises/07_states/states.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/05_first_directive/FirstDirective.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/04_repeaters/Repeaters.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/02_controllers/controllers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="33" selection-start="720" selection-end="720" vertical-scroll-proportion="0.3736447">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularJSWorkshop/codealong/07_providers/providers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.18181819">
+        <state line="21" column="5" selection-start="637" selection-end="637" vertical-scroll-proportion="0.27722773">
           <folding />
         </state>
       </provider>

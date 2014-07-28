@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+    <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <script src="../../bower_components/angular/angular.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+    <script src="/AngularJSWorkshop/bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="/AngularJSWorkshop/exercises/07_states/states.js"></script>
+    <style>
+        .current {
+            background-color: red;
+        }
+    </style>
+</head>
+<body ng-app="states" ng-controller="AppCtrl as app" class="container">
+    <button ui-sref="home" ui-sref-active="current">Home</button>
+    <button ui-sref="configure" ui-sref-active="current">Configure</button>
+    <button ui-sref="manage" ui-sref-active="current">Manage</button>
+    <button ui-sref="tools" ui-sref-active="current">Tools</button>
+    <div ui-view="main"></div>
+</body>
+</html>
